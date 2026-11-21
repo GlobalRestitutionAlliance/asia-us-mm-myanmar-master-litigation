@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-myanmar-canal-and-intervention-historian
-  name: Myanmar Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-myanmar-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_mm_001
+    name: Myanmar Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_002
+    name: Myanmar Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_003
+    name: Myanmar Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_004
+    name: Myanmar Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_005
+    name: Myanmar Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_006
+    name: Myanmar Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_007
+    name: Myanmar Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_008
+    name: Myanmar Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_009
+    name: Myanmar Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_010
+    name: Myanmar Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_011
+    name: Myanmar Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_012
+    name: Myanmar Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_013
+    name: Myanmar Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_014
+    name: Myanmar Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_015
+    name: Myanmar Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_016
+    name: Myanmar Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_017
+    name: Myanmar Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_018
+    name: Myanmar Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_019
+    name: Myanmar Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_020
+    name: Myanmar Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_021
+    name: Myanmar Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_022
+    name: Myanmar Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_023
+    name: Myanmar Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_024
+    name: Myanmar Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_025
+    name: Myanmar Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_026
+    name: Myanmar Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_027
+    name: Myanmar Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_028
+    name: Myanmar Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_029
+    name: Myanmar Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_030
+    name: Myanmar Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_031
+    name: Myanmar Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_032
+    name: Myanmar Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_033
+    name: Myanmar Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_034
+    name: Myanmar Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_035
+    name: Myanmar Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_036
+    name: Myanmar Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_037
+    name: Myanmar Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_038
+    name: Myanmar Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_039
+    name: Myanmar Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_040
+    name: Myanmar Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_041
+    name: Myanmar Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_042
+    name: Myanmar Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_043
+    name: Myanmar Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_044
+    name: Myanmar Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_045
+    name: Myanmar Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_046
+    name: Myanmar Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_047
+    name: Myanmar Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_048
+    name: Myanmar Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_049
+    name: Myanmar Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_050
+    name: Myanmar Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_051
+    name: Myanmar Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_052
+    name: Myanmar Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_053
+    name: Myanmar Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_054
+    name: Myanmar Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_055
+    name: Myanmar Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_056
+    name: Myanmar Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_057
+    name: Myanmar Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_058
+    name: Myanmar Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_059
+    name: Myanmar Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_060
+    name: Myanmar Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_061
+    name: Myanmar Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_062
+    name: Myanmar Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_063
+    name: Myanmar Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_064
+    name: Myanmar Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_065
+    name: Myanmar Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_066
+    name: Myanmar Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_067
+    name: Myanmar Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_068
+    name: Myanmar Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_069
+    name: Myanmar Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_070
+    name: Myanmar Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_071
+    name: Myanmar Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_072
+    name: Myanmar Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_073
+    name: Myanmar Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_074
+    name: Myanmar Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_075
+    name: Myanmar Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_076
+    name: Myanmar Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_077
+    name: Myanmar Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_078
+    name: Myanmar Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_079
+    name: Myanmar Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_080
+    name: Myanmar Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_081
+    name: Myanmar Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_082
+    name: Myanmar Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_083
+    name: Myanmar Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_084
+    name: Myanmar Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_085
+    name: Myanmar Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_086
+    name: Myanmar Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_087
+    name: Myanmar Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_088
+    name: Myanmar Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_089
+    name: Myanmar Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_090
+    name: Myanmar Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_091
+    name: Myanmar Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_092
+    name: Myanmar Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_093
+    name: Myanmar Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_094
+    name: Myanmar Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_095
+    name: Myanmar Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_096
+    name: Myanmar Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_097
+    name: Myanmar Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_098
+    name: Myanmar Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_099
+    name: Myanmar Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_100
+    name: Myanmar Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_101
+    name: Myanmar Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_102
+    name: Myanmar Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_103
+    name: Myanmar Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_104
+    name: Myanmar Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_105
+    name: Myanmar Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_106
+    name: Myanmar Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_107
+    name: Myanmar Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_108
+    name: Myanmar Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_109
+    name: Myanmar Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_110
+    name: Myanmar Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_111
+    name: Myanmar Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_112
+    name: Myanmar Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_113
+    name: Myanmar Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_114
+    name: Myanmar Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_115
+    name: Myanmar Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_116
+    name: Myanmar Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_117
+    name: Myanmar Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_118
+    name: Myanmar Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_119
+    name: Myanmar Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_120
+    name: Myanmar Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_121
+    name: Myanmar Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_122
+    name: Myanmar Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_123
+    name: Myanmar Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_124
+    name: Myanmar Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_125
+    name: Myanmar Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_126
+    name: Myanmar Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_127
+    name: Myanmar Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_128
+    name: Myanmar Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_129
+    name: Myanmar Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_130
+    name: Myanmar Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_131
+    name: Myanmar Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_132
+    name: Myanmar Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_133
+    name: Myanmar Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_134
+    name: Myanmar Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_135
+    name: Myanmar Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_136
+    name: Myanmar Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_137
+    name: Myanmar Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_138
+    name: Myanmar Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_139
+    name: Myanmar Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_140
+    name: Myanmar Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_141
+    name: Myanmar Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_142
+    name: Myanmar Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_143
+    name: Myanmar Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_144
+    name: Myanmar Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_145
+    name: Myanmar Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_146
+    name: Myanmar Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_147
+    name: Myanmar Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_148
+    name: Myanmar Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_149
+    name: Myanmar Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_150
+    name: Myanmar Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_151
+    name: Myanmar Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_152
+    name: Myanmar Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_153
+    name: Myanmar Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_154
+    name: Myanmar Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_155
+    name: Myanmar Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_156
+    name: Myanmar Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_157
+    name: Myanmar Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_158
+    name: Myanmar Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_159
+    name: Myanmar Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_160
+    name: Myanmar Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_161
+    name: Myanmar Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_162
+    name: Myanmar Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_163
+    name: Myanmar Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_164
+    name: Myanmar Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_165
+    name: Myanmar Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_166
+    name: Myanmar Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_167
+    name: Myanmar Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_168
+    name: Myanmar Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_169
+    name: Myanmar Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mm_170
+    name: Myanmar Agent 170
+    status: ACTIVE_SCAFFOLD
